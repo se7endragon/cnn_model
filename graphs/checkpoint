@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_fashion_mnist_22"
+all_model_checkpoint_paths: "cnn_fashion_mnist_22"
